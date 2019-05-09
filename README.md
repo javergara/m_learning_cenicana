@@ -29,11 +29,7 @@ mkdir kagle
 https://www.kaggle.com/c/aerial-cactus-identification/data
 
 unzip the dataset and train and test folders in kaggle dir
-Then two folders into kaggle dir, train and test and a file train.csv the structure is:
-D:Trainning_dir
-├───kaggle
-│   ├───test
-│   └───train
+Then two folders into kaggle dir, train and test and a file train.csv
 
 ## Install tensorflow
 
