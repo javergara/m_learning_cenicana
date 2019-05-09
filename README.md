@@ -12,7 +12,7 @@ Anaconda installation:  https://www.anaconda.com/distribution/
 In a CMD write following commands
 
 ```
-$conda create -n train_class python=3.6
+conda create -n train_class python=3.6
 ```
 
 ```
@@ -58,6 +58,13 @@ conda install ipykernel (type “y” when prompted)
 ```
 python -m ipykernel install --user --name env_name --display-name "Python (env_name)") 
 ```
+To activate the kernel in jupyter lab, write in CMD
+
+```
+Jupyter lab
+```
+
+Go to Kernel tab and select change kernel, then click "Python (env_name)", test again the first cell 
 
 ## dependencies 
 To know if tensorflow and all dependencies are ok , run second cell 
