@@ -1,5 +1,5 @@
 # Tutorial for tensorflow image classification 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](img_info/id1.png)
 
 
 
