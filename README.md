@@ -42,7 +42,7 @@ pip install tensorflow==2.0.0-alpha0
 ```
 Jupyter lab
 ```
-Then Jupyter lab will open and you will find training.ipynb file there , open it and run the first cell to check if the kernel is ok
+Then Jupyter lab will open and you will find Train_images.ipynb file there , open it and run the first cell to check if the kernel is ok
 ```
 import sys 
 sys.executable
